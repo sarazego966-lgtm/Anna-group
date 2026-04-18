@@ -1,5 +1,46 @@
 #name{
     font-style: oblique;
-    padding: 50px;
+    padding:5px;
+    margin: 5px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px;
+}
+#email{
+     font-style: oblique;
+    padding:5px;
+     margin: 5px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px;
+}
+#phonenumber{
+    font-style: oblique;
+    padding:5px;
+     margin: 5px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px;
+}
+textarea{
+    font-style: oblique;
+    padding:5px;
+     margin: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+
+}
+.button{
+    background-color: lightblue;
+}
+.button:hover{
+    background-color: blue;
+    transition: 1s;
+}
+body{
+    background-color:azure;
+    
+    
     
 }
+
+
+
+
