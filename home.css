@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(158, 158, 224);
+}
+.b{
+    width: 450px;
+    height: 500px;
+}
+.box{
+    font-size: 40px;
+}
+.box:hover{
+color: brown;
+}
+p{
+    font-size: 30px;
+}
