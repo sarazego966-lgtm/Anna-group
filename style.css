@@ -1,46 +1,25 @@
 #name{
     font-style: oblique;
-    padding:5px;
-    margin: 5px;
-    border-radius: 20px;
-    box-shadow: 2px 2px 2px;
-}
-#email{
-     font-style: oblique;
-    padding:5px;
-     margin: 5px;
-    border-radius: 20px;
-    box-shadow: 2px 2px 2px;
-}
-#phonenumber{
-    font-style: oblique;
-    padding:5px;
-     margin: 5px;
-    border-radius: 20px;
-    box-shadow: 2px 2px 2px;
-}
-textarea{
-    font-style: oblique;
-    padding:5px;
-     margin: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 2px 2px;
+    padding: 50px;
 
+    
 }
-.button{
-    background-color: lightblue;
-}
-.button:hover{
-    background-color: blue;
-    transition: 1s;
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+    border: solid 1px;
+    
 }
 body{
-    background-color:azure;
-    
-    
+    background-image:url(img7.webp) ;
+
+}
+h1{
+    color: rgb(9, 153, 153);
     
 }
-
-
-
-
+P{
+    border: solid 1PX;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
